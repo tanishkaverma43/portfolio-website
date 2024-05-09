@@ -8,7 +8,7 @@ function Service() {
     <div id="Services" className='services'>
       <h1>My Services</h1>
       <div className="boxes">
-        <ServiceBox animation = "fade-up" icon = "fas fa-globe" heading = "Web Development" text = "We offers a variety of website design and development services in which we use modern technologies of Era.." />
+        <ServiceBox animation = "fade-up" icon = "fas fa-globe" heading = "Web Development" text = "From building sleek designs to optimizing user experiences, we craft innovative solutions tailored to your needs. Let's create an online presence that sets you apart." />
         <ServiceBox animation = "fade-up" icon = "fas fa-code" heading = "Software Development" text = "Software development is an amalgamation of several activities like designing, testing, programming.."/>
         <ServiceBox animation = "fade-up" icon = "fas fa-info-circle" heading = "Software Testing" text = "We provides professional software testing solutions to the valueable customers.." />
         <ServiceBox animation = "fade-up" icon = "fas fa-bookmark" heading = "Web Hosting" text = "A web host, or web hosting service provider, is a business that provides the technologies and services .." />
